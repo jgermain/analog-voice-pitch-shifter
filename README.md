@@ -47,7 +47,7 @@ Built with LM741/UA741 op-amps and AD633 analog multipliers. This project implem
      - Microphone
 
 
-## Experimental Results
+# Experimental Results
 
 The analog voice frequency shifter was constructed on a
 breadboard and evaluated using an oscilloscope, waveform
