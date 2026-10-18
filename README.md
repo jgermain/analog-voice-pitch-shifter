@@ -52,7 +52,7 @@ The project was developed through circuit design, simulation, breadboard impleme
 ### Hardware Testing and Demonstration
 
 <p align="center">
-  <img src="Images/Circuit_Testing.jpg"
+  <img src="Images/Circuit_Testing.jpeg"
        alt="Analog voice frequency shifter during hardware testing"
        width="750">
 </p>
