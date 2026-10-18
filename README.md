@@ -42,7 +42,7 @@ The project was developed through circuit design, simulation, breadboard impleme
 ### Physical Circuit Implementation
 
 <p align="center">
-  <img src="Images/Voice_Shifter_Breadboard.jpg"
+  <img src="Images/Physical_Circuit.jpeg"
        alt="Physical breadboard implementation of the analog voice frequency shifter"
        width="750">
 </p>
@@ -52,7 +52,7 @@ The project was developed through circuit design, simulation, breadboard impleme
 ### Hardware Testing and Demonstration
 
 <p align="center">
-  <img src="Images/Voice_Shifter_Testing.jpg"
+  <img src="Images/Circuit_Testing.jpg"
        alt="Analog voice frequency shifter during hardware testing"
        width="750">
 </p>
